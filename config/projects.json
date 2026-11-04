@@ -1,0 +1,16 @@
+{
+  "organization": "SGAplicaciones",
+  "mcpServer": "azure-devops",
+  "defaultProject": null,
+  "projects": [
+    { "id": "54c1a3c9-aae0-4292-802f-c5047186a953", "name": "Veridia Health" },
+    { "id": "700b57fb-b876-4abd-a11b-0cd15a4fc4a1", "name": "SG_Synergy" },
+    { "id": "5e7a0a53-3ad2-4684-b9e1-cd06a588eeb7", "name": "Automatizacion_Contable" },
+    { "id": "28031359-5065-4ed4-ada0-e92a4d42256b", "name": "Livin_Tech" },
+    { "id": "4f36896e-f00d-4113-be2d-edb47f373b95", "name": "TicketIT Nexxt" },
+    { "id": "54a5412d-440d-4ce4-b76a-da0cb11076d5", "name": "Employee Center" },
+    { "id": "e48a0d3a-d510-4bb1-a78b-46d08305466e", "name": "Playwright" },
+    { "id": "2ee70a09-d5a2-471a-a519-7b08873eaa09", "name": "Claude_Test" },
+    { "id": "af3ea921-e302-4de7-8437-d29de934faaf", "name": "CRM" }
+  ]
+}
